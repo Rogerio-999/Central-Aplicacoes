@@ -26,18 +26,15 @@ O Central Aplicações é uma coleção de pequenas aplicações e utilitários 
 ### Executando o projeto
 1. Baixe o arquivo:
 ```
-git clone https://github.com/Rogerio-999/Central-Aplicacoes.git
-
-
-2. Navegue até o diretório:
-```bash
-cd Central-Aplicacoes
+https://github.com/Rogerio-Infinito/Central-Aplicacoes
 ```
 
-3. Execute o arquivo principal:
+2. Execute o arquivo principal:
 ```bash
 python main.py
 ```
+
+3. Crie uma conta na Central e depois entre nela digitando seu nome e sua senha.
 
 ## 📁 Estrutura do Projeto
 

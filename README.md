@@ -24,10 +24,10 @@ O Central Aplicações é uma coleção de pequenas aplicações e utilitários 
 - Nenhuma biblioteca externa necessária (usa apenas bibliotecas padrão do Python)
 
 ### Executando o projeto
-1. Clone este repositório:
-```bash
-git clone https://github.com/Rogerio-999/Central-Aplicacoes.git
+1. Baixe o arquivo:
 ```
+git clone https://github.com/Rogerio-999/Central-Aplicacoes.git
+
 
 2. Navegue até o diretório:
 ```bash
